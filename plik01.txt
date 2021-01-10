@@ -1,2 +1,3 @@
 master: linia 1
-branch01: linia2
+branch01: linia2|brnach02: linia2
+
