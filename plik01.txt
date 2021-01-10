@@ -1,1 +1,2 @@
 master: linia 1
+brnach02: linia2
